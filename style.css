@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-top: -7px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
+.color {
+    background-color: #CAD5E2;
+
+}
+
+.top2 {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+}
+
+.p1 {
+    border-top: 2px solid black;
+    width: 100px;
+}
+
+.top1 img {
+
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 500px;
+    top: 90px;
+    width: 14%;
+    border: 1px solid black;
+}
